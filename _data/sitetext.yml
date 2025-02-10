@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bine ati venit!
-    text: "O scurta introducere?"
+    title: Bine ați venit!
+    text: "EMart, mai mult decât un service!"
     button: Mai multe detalii
     buttonlink: "#services"
 
@@ -21,36 +21,36 @@ en: &DEFAULT_EN
     # text: "Punem ce vrei tu aici"
     section: services
     list:
-      - title: "Cadastru"
-        desc: "Avem capacitatea de realizarea a lucrarilor topografice legate de domeniul cadastrului si nu numai. Printre aceste lucrari putem sa amintim intabulari, actualizari date tehnice, alipiri/dezlipiri, planuri de situatie, identificari cadastrale, expertize tehnice extrajudiciare."
-        icon: fas fa-compass
-      - title: "UAV"
-        desc: "Incercam sa eficientizam fluxul de lucru, astfel uneori este necesara utilizarea aparatelor de tip UAV. Utilizant aceste aparate, putem genera ortofotoplanuri avand precizii foarte mari, scanari pentru zone greu accesibile fiind generat un nor de puncte 3D, precum si diferite studii legate de sanatatea culturilor prin utilizarea camerelor NDVI."
-        icon: fas fa-solid fa-plane
+      - title: "Diagnoză auto"
+        desc: "Folosind echipamente de ultimă generație, oferim servicii de diagnoză pentru autovehiculul dvs."
+        icon: fas fa-solid fa-network-wired
+      - title: "Servicii de mentenanță"
+        desc: "Ne ocupăm de tot ce ține de partea de lucrări de mentenanță, schimb de filtre, ulei, placuțe/discuri de frână, etc, cu promptitudine și profesionalism!"
+        icon: fas fa-solid fa-car
       # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       #   desc: "Your description here, full **Markdown** support"
       #   icon: fab fa-markdown
-      - title: "Scanari 3D"
-        desc: "Trebuie sa profitam de faptul ca tehnologia este de partea noastra. Diferitele proiecte cer diferite metode de lucru. Pentru rapiditate si flux de lucru simplificat avem posibilitatea scanarii cu aparate mobile lidar, iar pentru precizie si grad ridicat de detaliere utilizam scanere laser 3D. In functie de cerintele beneficiarului, adaptam tehnicile utilizate."
-        icon: fas fa-solid fa-barcode
-      - title: "Topografie inginereasca/asistenta tehnica"
-        desc: "Asiguram transpunerea proiectelor dumneavostra de pe hartie in teren. Fie ca este vorba despre o limita de proprietate, axele unui construtii uni-familiare sau constructii industriale, avem posibilitatea de a asigura asistenta topografica in santier pentru toate etapele constructiei, cat si verificari ulterioare dupa finalizarea constructiei legate de urmarirea comportarii in timp a elementelor structural."
-        icon: fas fa-ruler-combined
-      - title: "Evaluari imobiliare"
-        desc: "Intr-o lume aflata constant in schimbare este necesar sa tinem pasul cu toate modificarile. Pretul imobilelor este dictat de raportul cerere si oferta, iar noi reusim sa va oferim un raport de evaluare actualizat la zi, care este ancorat la valoarea reala de tranzactionare a imobilului respectiv. Fie ca este vorba de un raport minimalist pentru o valoare estimative de piata sau un raport complex de evaluare, noi reusim sa furnizam in functie de nevoile dumneavostra."
-        icon: fas fa-money-check
-      - title: "Proiectare constructii"
-        desc: "Realizam documentatii tehnice necesare pentru eliberarea certificatelor de urbanism, documentatii necesare pentru obtinerea avizelor si pentru autorizarea lucrarilor de constructii."
-        icon: fas fa-building
+      - title: "Reparații mecanice ample"
+        desc: "Bazându-ne pe experiența acumulată în anii de activitate, putem spune cu încredere ca putem oferi soluții și pentru probleme mecanice complexe, de la partea de constatare, până la soluționare."
+        icon: fas fa-solid fa-wrench
+      - title: "Reparații electrice"
+        desc: "Asigurăm servicii pe tot ține de electronica autovehiculului dvs, de la cele mai mici până la cele mai complexe probleme."
+        icon: fas fa-solid fa-charging-station
+      - title: "Servicii de retrofit"
+        desc: "Vreți să dați un aer de nou mașinii? La EMart vă oferim posibilitatea de upgrade pentru partea de infotaiment / faruri - stopuri / senzorică a mașinii dvs."
+        icon: fas fa-solid fa-circle-up
+      - title: "Tuning"
+        desc: "Pentru a revitaliza performanțele mașinii, vă oferim și servicii de upgrade software, ce vor îmbunătăți dinamica acesteia, și vor face ca experiența la volan să fie una mult mai placută!"
+        icon: fas fa-duotone fa-regular fa-laptop
 
   portfolio:
-    title: "Portfolio"
-    text: "Portofoliu lucrari finalizate si aflate in derulare."
+    title: "Portfoliu"
+    text: "Aici puteți oberva diferite lucrări derulate în cadrul atelierului nostru"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Închide fereastra"
 
   timeline:
-    title: "Timeline"
+    title: "Povestea nostră"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -83,51 +83,57 @@ en: &DEFAULT_EN
   about:
     title: "Despre noi"
     text: " "
-    body: "TDA Topoconstruct este o firma care activeaza in domeniul constructiilor si al topografiei. Plaja serviciilor este una diversificata astfel incat incercam sa rezolvam nevoile clientilor nostrii intr-o metoda cat mai rapida si eficienta, pentru transpunerea proiectelor dumneavostra in realitate."
+    body: "EMart este un service auto & moto din Cluj-Napoca, specializat atât în reparații electronice, cât și mecanice. Fondat în 2024 de doi prieteni pasionați de domeniul automotive, EMart a luat naștere din dorința de a oferi servicii de înaltă calitate, bazate pe expertiză, inovație și atenție la detalii.
+
+Ne-am propus să fim mai mult decât un simplu service – vrem să creăm o comunitate dedicată pasionaților de tehnologie și mecanică. De aceea, în viitor vom organiza workshop-uri și prezentări educative, unde vei putea descoperi cele mai noi tehnologii din domeniu și vei avea ocazia să interacționezi cu specialiști și alți entuziaști.
+
+La EMart, fiecare intervenție este realizată cu profesionalism și respect față de client. Indiferent dacă ai nevoie de o diagnoză avansată, reparații electronice sau intervenții mecanice, suntem aici să îți oferim soluții eficiente și de încredere.
+
+📍 Te așteptăm în Cluj-Napoca pentru servicii de top și o experiență tehnică la cele mai înalte standarde!"
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "yes" #"yes/no"
-    list:
-      - title: "google"
-        url: https://google.com
-        logo: assets/img/logo-alb.png
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  #clients:
+  #  section: clients
+  #  max-height: 100px
+  #  horizontal-scrolling: "yes" #"yes/no"
+  #  list:
+  #    - title: "google"
+  #      url: https://google.com
+  #      logo: assets/img/logo-alb.png
+  #    - title: "designmodo"
+  #      url: https://github.com/raviriley/agency-jekyll-theme
+  #      logo: assets/img/clients/designmodo.jpg
+  #    - title: "themeforest"
+   #     url: https://github.com/raviriley/agency-jekyll-theme
+   #    logo: assets/img/clients/themeforest.jpg
+   #   - title: "Creative Market"
+   #     url: https://github.com/raviriley/agency-jekyll-theme
+   #     logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Echipa noastra"
+    title: "Echipa noastră"
     text: "Membrii"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Iuliu Ivanciuc"
-        role: "CEO"
+      - name: "Branic Vlad"
+        role: "Electrician principal - Cofondator"
         image: assets/img/team/iuliu_ivanciuc.jpg
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
-          - url: https://www.facebook.com/ivanciuc.iuliu.3
-            icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/iuliu-stefan-ivanciuc-965855140/
-            icon: fab fa-linkedin-in
-      - name: "Ioan Turda"
-        role: "CEO"
+          #- url: https://www.facebook.com/ivanciuc.iuliu.3
+          #  icon: fab fa-facebook-f
+          #- url: https://www.linkedin.com/in/iuliu-stefan-ivanciuc-965855140/
+          #  icon: fab fa-linkedin-in
+      - name: "Rareș Ardelean"
+        role: "Mecanic principal - Cofondator"
         image: assets/img/team/ion_turda.jpg
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
-          - url: https://www.facebook.com/cazare.casa.maria
-            icon: fab fa-facebook-f
+          #- url: https://www.facebook.com/cazare.casa.maria
+          #  icon: fab fa-facebook-f
           # - url: https://linkedin.com
           #   icon: fab fa-linkedin-in
       # - name: "Gagicile din BM"
@@ -142,31 +148,31 @@ en: &DEFAULT_EN
       #       icon: fab fa-linkedin-in
 
   contact:
-    title: "Contactaza-ne"
-    text: "0747 558 975"
+    title: "Pentru întrebări, oferte și informații, contactază-ne!"
+    text: "0754 055 718 / 0741 377 736"
     section: contact
-    name: "Name*"
+    name: "Nume*"
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
+    phone: "Număr de telefon"
     phone-validation: "Please enter your phone number."
-    message: "Message*"
+    message: "Mesaj*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Trimite mesajul"
 
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
+      #- url: https://twitter.com
+      #  icon: "fab fa-twitter"
+      #- url: https://facebook.com
+      #  icon: "fab fa-facebook-f"
+      #- url: https://linkedin.com
+      #  icon: "fab fa-linkedin-in"
+      #- url: https://github.com/raviriley/agency-jekyll-theme
+      #  icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 en-US:

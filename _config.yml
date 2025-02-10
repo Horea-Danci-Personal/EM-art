@@ -14,13 +14,13 @@
 # theme: jekyll-agency
 remote_theme: bledeamarius/agency-jekyll-theme
 
-url: "https://bledeamarius.github.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/topo-geo" # the subpath of your site, e.g. /blog
+url: "https://horea-danci-personal.github.io/EM-art/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/EM-art" # the subpath of your site, e.g. /blog
 
-title: TDA Topo Construct
-email: ivanciuc.iuliu@gmail.com #this is also the email contact forms will go to
-description: "O descriere misto"
-author: Iuliu Ivanciuc
+title: EMart Auto Service
+email: horeadanci@gmail.com #this is also the email contact forms will go to
+description: "EMart Auto Service"
+author: Vlad Branic
 logo: #optional, defaults to site title
   path: assets\img\logo-alb.png
   # height: 60 #height in px, defaults to 52px
@@ -41,3 +41,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+
