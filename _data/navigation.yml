@@ -17,8 +17,8 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Despre noi"
       section: about
-    - title: "Povestea noastră"
-      section: timeline
+   # - title: "Povestea noastră"
+    #  section: timeline
     - title: "Echipa"
       section: team
     - title: "Contact"

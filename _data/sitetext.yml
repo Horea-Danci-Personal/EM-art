@@ -49,7 +49,7 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Închide fereastra"
 
-  #timeline:
+  timeline:
   #  title: "Povestea nostră"
   #  text: "Lorem ipsum timeline"
   #  section: timeline
