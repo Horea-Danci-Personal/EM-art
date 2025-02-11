@@ -65,6 +65,7 @@ en: &DEFAULT_EN
   #      year: "March 2011"
         desc: "Strada Dealul Fânațelor, Cluj-Napoca 400474"
         image: assets/img/timeline/2.jpg
+        align: right
   #      alt:
   #    - title: "Jekyll Theme is created"
   #      year: "2019"
