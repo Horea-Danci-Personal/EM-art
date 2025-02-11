@@ -83,10 +83,10 @@ en: &DEFAULT_EN
 
   about:
     title: "Despre noi"
-    text: "test test test"
-    body: "EMart este un service auto & moto din Cluj-Napoca, specializat atât în reparații electronice, cât și mecanice. <br> Fondat în 2024 de doi prieteni pasionați de domeniul automotive, EMart a luat naștere din dorința de a oferi servicii de înaltă calitate, bazate pe expertiză, inovație și atenție la detalii.
+    text: "Ca să ne cunoaștem mai bine"
+    body: "EMart este un service auto & moto din Cluj-Napoca, specializat atât în reparații electronice, cât și mecanice.  Fondat în 2024 de doi prieteni pasionați de domeniul automotive, EMart a luat naștere din dorința de a oferi servicii de înaltă calitate, bazate pe expertiză, inovație și atenție la detalii.
 
-Ne-am propus să fim mai mult decât un simplu service – vrem să creăm o comunitate dedicată pasionaților de tehnologie și mecanică. De aceea, în viitor vom organiza workshop-uri și prezentări educative, unde vei putea descoperi cele mai noi tehnologii din domeniu și vei avea ocazia să interacționezi cu specialiști și alți entuziaști.
+<br> Ne-am propus să fim mai mult decât un simplu service – vrem să creăm o comunitate dedicată pasionaților de tehnologie și mecanică. De aceea, în viitor vom organiza workshop-uri și prezentări educative, unde vei putea descoperi cele mai noi tehnologii din domeniu și vei avea ocazia să interacționezi cu specialiști și alți entuziaști.
 
 La EMart, fiecare intervenție este realizată cu profesionalism și respect față de client. Indiferent dacă ai nevoie de o diagnoză avansată, reparații electronice sau intervenții mecanice, suntem aici să îți oferim soluții eficiente și de încredere.
 
@@ -119,7 +119,7 @@ La EMart, fiecare intervenție este realizată cu profesionalism și respect fa�
     people:
       - name: "Branic Vlad"
         role: "Electrician principal - Cofondator"
-        image: assets/img/team/iuliu_ivanciuc.jpg
+        image: assets/img/team/iuliu_ivanciuc.webp
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
