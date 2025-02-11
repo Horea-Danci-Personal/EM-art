@@ -177,7 +177,7 @@ La EMart, fiecare intervenție este realizată cu profesionalism și respect fa�
       - url: https://www.instagram.com/emart_garage_cluj/
         icon: "fab fa-instagram"
       - url: https://www.google.com/maps/place/EMart/@46.8499327,23.6023603,17z/data=!3m1!4b1!4m6!3m5!1s0x474909975643da27:0x5c58205375b62c7f!8m2!3d46.8499291!4d23.6049352!16s%2Fg%2F11wjnwwy_s?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D
-        icon: "fab fa-solid fa-earth-europe"
+        icon: "fab fa-solid fa-earth-europe" style="color: #98a09d;"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
