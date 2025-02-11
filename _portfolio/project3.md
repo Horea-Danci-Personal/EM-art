@@ -1,7 +1,7 @@
 ---
 title: Optimizare software
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+subtitle: Performanță crescută pentru mașina dvs!
+#image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
@@ -9,7 +9,7 @@ caption:
   subtitle: Optimizare software
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Pe lâgă reparații, la EMart găsiți și posibilitatea de a vă îmbunătăți performanțele mașinii printr-o optimizare software de tip Stage 1, 2, etc. Vă stăm la dispoziție pentru orice întrebare legată de proces, consultanță pentru upgrade-uri mecanice, și nu numai! 
 
 {:.list-inline}
 - Date: January 2017

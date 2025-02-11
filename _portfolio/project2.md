@@ -1,7 +1,7 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+title: Reparații complexe
+subtitle: Ne ocupăm de orice defecțiune, fie ea cât de complicată! 
+#image: assets/img/portfolio/02-full.jpg
 additional_images:
   # - assets/img/timeline/1 Plan de situatie Chisineu Cris1-full.jpg
   # - assets/img/timeline/1 Plan de situatie Chisineu Cris2-full.jpg
@@ -12,7 +12,7 @@ caption:
   subtitle: Mecanică - Electronică
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Schimbare distribuție, segmentare motor, înlocuit piese, investigații, indiferent de nevoie vehiculului dvs, la EMart vă asigurăm soluția!
 
 {:.list-inline}
 - Date: January 2017
