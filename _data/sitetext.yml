@@ -49,15 +49,15 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Închide fereastra"
 
-  #timeline:
-  #  title: "Povestea nostră"
-  #  text: "Lorem ipsum timeline"
-  #  section: timeline
+  timeline:
+    title: "Unde ne găsiți"
+    text: "Lorem ipsum timeline"
+    section: timeline
     # left is the default
-    #start_align: "left"
-  #  events:
-  #    - title: "Scoatem sectiunea asta daca vrei"
-  #      year: "2009-2011"
+    start_align: "left"
+    events:
+      - title: "În Cluj Napoca, la 10 minute de centru"
+        year: "Cum ar zice agenții imobiliari.."
   #      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
   #      image: assets/img/timeline/1.jpg
   #      alt:
