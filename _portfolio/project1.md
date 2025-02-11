@@ -15,8 +15,5 @@ caption:
 ---
 Efectuăm tot ce ține de mentenanța periodică a mașinii dvs, schimburi de ulei (cutie automată - cutie manuală - diferențiale - cutii de transfer), service sistem frânare (schimb placuțe - discuri - saboți - refacere etriere - aerisire), schimburi de filtre (ulei - aer - habitaclu), cu rapiditate și seriozitate.
 
-# {:.list-inline}
-# - Date: August 2023
-# - Client: Primaria Orasului Chisineu-Cris, jud. Arad
-# - Category: Ridicare topografica
+
 
