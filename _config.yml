@@ -12,7 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # theme: jekyll-agency
-remote_theme: bledeamarius/agency-jekyll-theme
+remote_theme: Horea-Danci-Personal/agency-jekyll-theme
 
 url: "https://horea-danci-personal.github.io/EM-art/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/EM-art" # the subpath of your site, e.g. /blog
