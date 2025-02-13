@@ -51,7 +51,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Unde ne găsiți"
-    text: "Lorem ipsum timeline"
+    text: "În curând o să vă punem la dispoziție trasnport alternativ pentru lucrătile de lungă durată!"
     section: timeline
     # left is the default
     start_align: "right"
